@@ -96,7 +96,7 @@ app/
     page.tsx
     [period]/
       page.tsx
-  api/
+  api/pathum25
     people/
       route.ts
   layout.tsx
